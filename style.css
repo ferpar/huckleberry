@@ -29,6 +29,10 @@ p {
   letter-spacing: -0.5px;
 }
 
+p:last-child {
+  margin-bottom: 0;
+}
+
 /* Add styles here! */
 
 header {
